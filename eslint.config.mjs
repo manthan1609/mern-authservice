@@ -18,6 +18,7 @@ export default tseslint.config(
             "no-console": "error",
             "dot-notation": "error",
             "@typescript-eslint/no-unsafe-call": "off",
+            "@typescript-eslint/no-misused-promises": "off",
         },
     },
     {
