@@ -17,6 +17,7 @@ export default tseslint.config(
         rules: {
             "no-console": "error",
             "dot-notation": "error",
+            "@typescript-eslint/no-unsafe-call": "off",
         },
     },
     {
