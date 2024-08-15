@@ -1,7 +1,7 @@
 {
-    "name": "mern-backend-service",
+    "name": "mern-auth-service",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
         "dev": "nodemon src/server.ts",
         "format:check": "prettier . --check",
